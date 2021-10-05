@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my B.tech degree from Vellore Institute of Technology, Bhopal
 - 🌱 I’m intrested in Big data and data analysis
-- 📫How to reach me: poorniraghuwanshi8357@gmail.com
-- Beside coding my intrests are in playing cricket, learning new technologies 
+- 📫 poorniraghuwanshi8357@gmail.com
+- Beside coding my intrest is to play cricket. 
 -->
